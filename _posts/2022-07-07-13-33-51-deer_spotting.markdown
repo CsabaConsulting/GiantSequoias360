@@ -3,10 +3,10 @@ layout: post
 title: "Deer Spotting"
 date: 2022-07-07 13:33:51
 categories: vrview
-image_url: deer_spotting_2.jpg
+image_url: beaar_spotting_2.jpg
 is_image_360: true
 default_yaw: 0
-thumbnail: deer_spotting_2_th.jpg
+thumbnail: bear_spotting_2_th.jpg
 youtube_id: iTLVdQatguc
 description: Deer Spotting
 ---
