@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Vista Point View"
+date: 2022-07-07 12:35:03
+categories: vrview
+image_url: vista_point_view.jpg
+is_image_360: true
+default_yaw: 0
+thumbnail: vista_point_view_th.jpg
+youtube_id: eB6pb4oiEa4
+description: Vista Point with Amazing View
+---
+Soon we stopped at this legit vista point, the view was quite amazing.

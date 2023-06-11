@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Vista Point Rock"
+date: 2022-07-07 12:36:43
+categories: vrview
+image_url: vista_point_rock.jpg
+is_image_360: true
+default_yaw: 0
+thumbnail: vista_point_rock_th.jpg
+youtube_id: JwtINe4V2cQ
+description: Vista Point plus an Extra Rock
+---
+I also climbed up on a rock to have an even better view.

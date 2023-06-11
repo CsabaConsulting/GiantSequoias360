@@ -1,0 +1,22 @@
+# Site settings
+title: Kings Canyon and Giant Sequoias National Park
+email: csaba.toth.us@gmail.com
+description: 360 videos and photos taken during a 2022-07-05 trip with Steve and Tamryn
+baseurl: "/GiantSequoias360" # the subpath of your site, e.g. /blog/
+url: "https://csabaconsulting.github.io" # the base hostname & protocol for your site
+copyright: '&copy; 2023 Csaba Toth'
+
+# Links
+source: "https://github.com/csabaconsulting/GiantSequoias360"
+blog: "https://csaba.page/"
+twitter: "https://twitter.com/tocsa2"
+instagram: "https://instagram.com/MrCsabaToth"
+
+# Build settings
+markdown: kramdown
+
+# Custom theme could be generated at: https://getmdl.io/customize/index.html
+material_theme: red-green
+
+# Google Analytics ID
+# google-analytics-ga4: G-ZZP7VZMBPC

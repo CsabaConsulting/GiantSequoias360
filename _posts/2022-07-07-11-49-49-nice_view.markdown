@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Nice View"
+date: 2022-07-07 11:49:49
+categories: vrview
+image_url: nice_view.jpg
+is_image_360: true
+default_yaw: 0
+thumbnail: nice_view_th.jpg
+youtube_id: WhtGyt-badg
+description: Stopping at a Nice View
+---
+We started the day buy eating some yummy burgers at an In-n-Out in Fresno close to the hotel. The we headed up to the national parks. On the way even before reaching some named vista points we already had amazing views at simple turnouts. THis was one of them.

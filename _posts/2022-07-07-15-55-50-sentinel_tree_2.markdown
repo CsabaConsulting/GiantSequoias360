@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Sentinel Tree 2"
+date: 2022-07-07 15:55:50
+categories: vrview
+image_url: sentinel_tree_2.jpg
+is_image_360: true
+default_yaw: 0
+thumbnail: sentinel_tree_2_th.jpg
+youtube_id: b6_zfHfWiGY
+description: Sentinel Tree 2
+---
+This is the continuation of the previous Sentinel tree scene.

@@ -1,0 +1,14 @@
+<div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">Half Dome 360</span>
+    <nav class="mdl-navigation">
+        <a class="mdl-navigation__link" href="{{ site.baseurl }}/">Home</a>
+        {% for post in site.posts reversed %}
+            {% if post.title %}
+                <a class="mdl-navigation__link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            {% endif %}
+        {% endfor %}
+        <a class="mdl-navigation__link" href="{{ site.blog }}/">Personal blog</a>
+        <a class="mdl-navigation__link" href="{{ site.twitter }}/"><i class="fa fa-twitter"></i></a>
+        <a class="mdl-navigation__link" href="{{ site.instagram }}/"><i class="fa fa-instagram"></i></a>
+    </nav>
+</div>

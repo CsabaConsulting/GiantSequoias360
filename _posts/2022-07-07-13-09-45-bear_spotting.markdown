@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Bear Spotting"
+date: 2022-07-07 13:09:45
+categories: vrview
+image_url: bear_spotting_1.jpg
+is_image_360: true
+default_yaw: 0
+thumbnail: bear_spotting_1_th.jpg
+youtube_id: AW8O74IYNSs
+description: Bear Spotting
+---
+We were still heading towards the visitor center, when we noticed a slowed down car. This can often mean some wild life spotting. I think we were pretty lucky to spot a few bears mid day.
